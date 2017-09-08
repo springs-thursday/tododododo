@@ -1,3 +1,5 @@
+![intro image](/images/full_intro.png)
+
 # tododododo
 springs-thursday에서 진행하는 두 번째 프로젝트! Todo List 만들기!! 뚜둔
 최대한 빠르게 만들어 공개 서비스 한번 해보자는 야무진 목표
