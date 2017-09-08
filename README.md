@@ -1,4 +1,5 @@
 ![intro image](/images/full_intro.png)
+[Facebook Group](https://www.facebook.com/groups/257515668102873/)
 
 # tododododo
 springs-thursday에서 진행하는 두 번째 프로젝트! Todo List 만들기!! 뚜둔
